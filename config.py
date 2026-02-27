@@ -1,0 +1,7 @@
+# config.py
+
+CGST_RATE = 0.09
+SGST_RATE = 0.09
+IGST_RATE = 0.18
+
+OUTPUT_FOLDER = "output"
